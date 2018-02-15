@@ -1,0 +1,26 @@
+{
+  "ReleaseDate": "2017-10-31",
+  "Duration": "00:14:28",
+  "TrackCount": 5,
+  "Genres": [
+    "Rock and Roll"
+  ],
+  "Subgenres": [
+    "Really Good Rock"
+  ],
+  "AlbumType": "EP",
+  "Artists": [
+    {
+      "Role": "Main",
+      "Artist": {
+        "Id": "music.123456",
+        "Name": "The Heart Beat Trail",
+        "ImageUrl": "https://f4.bcbits.com/img/a1402504557_10.jpg",
+        "Link": "https://theheartbeattrail.bandcamp.com/",
+        "Source": "Catalog",
+        "CompatibleSources": "Catalog, Collection"
+      }
+    }
+  ],
+  "CompatibleSources": "Catalog, Collection"
+}
